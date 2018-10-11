@@ -1,0 +1,12 @@
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\bin\WSSQUDB.dll
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\bin\WSSQUDB.pdb
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\bin\MySql.Data.dll
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.dll
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.pdb
+C:\Users\Lokesha.B\Documents\Visual Studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.csprojResolveAssemblyReference.cache
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\bin\WSSQUDB.dll
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\bin\WSSQUDB.pdb
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\bin\MySql.Data.dll
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.csprojResolveAssemblyReference.cache
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.dll
+D:\EMS\RTM Reports Portal - Global\WSSQUDB\WSSQUDB\obj\Release\WSSQUDB.pdb

@@ -1,0 +1,6 @@
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\bin\WSSQUDB.dll
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\bin\WSSQUDB.pdb
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\bin\MySql.Data.dll
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Debug\WSSQUDB.csprojResolveAssemblyReference.cache
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Debug\WSSQUDB.dll
+c:\users\lokesha.b\documents\visual studio 2010\Projects\WSSQUDB\WSSQUDB\obj\Debug\WSSQUDB.pdb
